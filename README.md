@@ -5,7 +5,7 @@
 Paste any GitHub URL and instantly get an interactive dependency graph, 
 architecture diagram, contributor network, and commit history — all in one place.
 
-🔗 **[Live Demo](https://your-deployed-url.com)**
+🔗 **[Live Demo](https://git-scope-analyze.vercel.app/)**
 
 ---
 
